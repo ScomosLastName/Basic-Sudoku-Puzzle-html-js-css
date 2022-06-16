@@ -1,0 +1,29 @@
+
+/* Put the CSS Styles for your puzzle here */
+input {
+  width: 20px;
+  height: 20px;
+  color: blue;
+  background-color: rgb(192, 192, 192)
+}
+span {
+  margin-right: 20px;
+}
+body {
+  text-align: center;
+  background-color: rgb(117, 116, 116)
+}
+img {
+  width: 20px;
+  height: 20px;
+}
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 50px;
+}
+button {
+  background-color: rgb(200, 200, 200)
+}
+div {
+  text-align: right;
+}
